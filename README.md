@@ -79,7 +79,7 @@ plt.show()
 ```
 ### Results
 
-![Visualisation of Top Skills](Python_Project\assets\likelihood_of_skills_requested_in_usjobs.png) 
+![Visualisation of Top Skills](Python_Project/assets/likelihood_of_skills_requested_in_usjobs.png) 
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
@@ -111,7 +111,7 @@ plt.show()
 
 ## Results
 
-![Trending top skills for data analysts](Python_Project\assets\trending_top_skills.png)
+![Trending top skills for data analysts](Python_Project/assets/trending_top_skills.png)
 
 *Bar graph visualizing the trending top skills for data analysts in the US in 2023.*
 
@@ -138,7 +138,7 @@ plt.show()
 ```
 ## Results
 
-![Salary Distribution for data analysis jobs](Python_Project\assets\salary_distributions_datajobs.png)
+![Salary Distribution for data analysis jobs](Python_Project/assets/salary_distributions_datajobs.png)
 
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 ## Insights
@@ -170,7 +170,7 @@ plt.show()
 ## Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
-![Highest paid Skills for Data Analysts](Python_Project\assets\highest_paid_skills_datajobs.png)
+![Highest paid Skills for Data Analysts](Python_Project/assets/highest_paid_skills_datajobs.png)
 
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
@@ -199,7 +199,7 @@ plt.show()
 
 ## Results
 
-![Most Otpimal Skills for Data Analysts](Python_Project\assets\most_optimal_skills_data_analysts.png)
+![Most Otpimal Skills for Data Analysts](Python_Project/assets/most_optimal_skills_data_analysts.png)
 
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.*
 
@@ -230,7 +230,7 @@ scatter = sns.scatterplot(
 plt.show()
 ```
 ### Results
-![Most Optimal Skills](Python_Project\assets\v2_most_optimal_skills.png)
+![Most Optimal Skills](Python_Project/assets/v2_most_optimal_skills.png)
 
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.*
 
